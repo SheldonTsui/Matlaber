@@ -9,12 +9,12 @@ Code will be released soon.
     <img src="doc/teaser.png">
 </p>
 
-<p align="center">
+<figure class="fourth">
     <img src="doc/goblet.gif">
     <img src="doc/strawberry.gif">
     <img src="doc/pancake.gif">
     <img src="doc/tulip.gif">
-</p>
+</figure>
 
 ## BibTeX
 
