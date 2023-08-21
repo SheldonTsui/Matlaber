@@ -9,7 +9,7 @@ Code will be released soon.
     <img src="doc/teaser.png">
 </p>
 
-<figure class="fourth">
+<figure class="25%">
     <img src="doc/goblet.gif">
     <img src="doc/strawberry.gif">
     <img src="doc/pancake.gif">
