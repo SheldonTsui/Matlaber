@@ -9,12 +9,14 @@ Code will be released soon.
     <img src="doc/teaser.png">
 </p>
 
-<figure class="25%">
-    <img src="doc/goblet.gif">
-    <img src="doc/strawberry.gif">
-    <img src="doc/pancake.gif">
-    <img src="doc/tulip.gif">
-</figure>
+<table>
+<tr>
+    <td><center><img src="doc/goblet.gif"></center></td>
+    <td><center><img src="doc/strawberry.gif"></center></td>
+    <td><center><img src="doc/pancake.gif"></center></td>
+    <td><center><img src="doc/tulip.gif"></center></td>
+</tr>
+</table>
 
 ## BibTeX
 
