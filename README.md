@@ -1,6 +1,6 @@
 # MATLABER
 
-Offical implementation of the paper *[MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278)*.
+Official implementation of the paper *[MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278)*.
 
 Code will be released soon.
 
